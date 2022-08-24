@@ -1,0 +1,18 @@
+To check if git is installed
+->launch terminal(Mac) or command prompt(Windows)
+->type "git --version"
+->if git is installed then we should get the version of git otherwise we would get an error message stating "no such command"
+============================
+after getting git installed we have to configure our account using following command
+git config --global user.name "FIRST_NAME LAST_NAME"
+
+git config --global user.email "MY_NAME@example.com"
+
+==================================
+further commands as follows
+echo "# Harmony_Python_2022" >> README.md
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kedards25/Harmony_Python_2022.git
+git push -u origin main

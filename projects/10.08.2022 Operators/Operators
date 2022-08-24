@@ -1,0 +1,62 @@
+Operators operate on variables
+
+Those are used to manipulate the 
+values of variables by means of arithmatic
+====================================
+Assignment Operators
+a=5
+assignment takes place from 
+right side to left side
+====================================
+Arithmatic Operators
++,-,/,*,%(Modulus-mod)
+It helps in getting the remainder 
+after the division
+====================================
+Conditional Operators
+<,>,<=,>=,==
+====================================
+Logical AND(&&)
+C1  C2  Res
+T   T   T
+F   T   F
+T   F   F
+F   F   F
+
+Logical OR(||)
+C1  C2  Res
+T   T   T
+F   T   T
+T   F   T
+F   F   F
+
+Logical NOT(!)
+C1  Res  
+T   F  
+F   T 
+
+==================================
+Unary Operators
+it operates on single variable
+
+increment operator
+++
+a=5
+a++     a=a+1   a=6
+
+Decrement Operator
+--
+a=5
+a--     a=a-1   a=4
+
+=================================
+Arithmatic Assignment Operators
+a=5
+It performs arithmatic on the same variable and stores the new value in that variable itself
+a+=5    a=a+5   a=10
+a-=5    a=a-5   a=5
+a*=5    a=a*5   a=25
+a/=5    a=a/5   a=5
+a%=5    a=a%5   a=0    
+
+

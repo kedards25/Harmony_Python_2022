@@ -1,0 +1,23 @@
+charVal=input("Enter any character:")
+if charVal== 'a':
+    print("its a vowel")
+elif charVal== 'e':
+    print("its a vowel")
+elif charVal== 'i':
+    print("its a vowel")
+elif charVal== 'o':
+    print("its a vowel")
+elif charVal== 'u':
+    print("its a vowel")
+if charVal== 'A':
+    print("its a vowel")
+elif charVal== 'E':
+    print("its a vowel")
+elif charVal== 'I':
+    print("its a vowel")
+elif charVal== 'O':
+    print("its a vowel")
+elif charVal== 'U':
+    print("its a vowel")
+else:
+    print("its a consonant")

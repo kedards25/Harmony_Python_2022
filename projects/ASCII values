@@ -1,0 +1,13 @@
+Each key on the keyboard has a number 
+associated with it.
+That number gets converted into binary value,
+value which has combination of 0s and 1s.
+ASCII=American Standard Code for Information
+Interchange
+The range of ASCII values is from 0 to 255
+out of which upper case letters range from 
+65 to 90 and that of lower case from 97 to 122
+It means value for A is 65 and that of a is 97
+
+a=5
+a==7
