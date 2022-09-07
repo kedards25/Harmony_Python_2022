@@ -12,6 +12,7 @@ git config --global user.email "MY_NAME@example.com"
 further commands as follows
 echo "# Harmony_Python_2022" >> README.md
 git init
+git add -A
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/kedards25/Harmony_Python_2022.git

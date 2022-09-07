@@ -1,2 +1,2 @@
-milliemiso=input("enter your name: ")
-print(" Welcome to school ",milliemiso)
+val1=input("enter your name: ")
+print(" Welcome to school ",val1)
